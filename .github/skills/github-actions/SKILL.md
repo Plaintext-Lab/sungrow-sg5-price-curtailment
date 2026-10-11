@@ -12,7 +12,7 @@ Home Assistant YAML configuration for guarded Sungrow solar curtailment.
 ## Implement
 
 Keep each existing application check, event, runner requirement and protected check context.
-Use read-only permissions and full commit pins with release comments for shared checks.
+Use read-only permissions and full commit pins with release comments for shared checks, or review-provenance comments for the DevKit baseline.
 Keep Copilot setup, dependency ecosystems and application build commands local.
 Do not enable CodeQL, dependency auto-merge, deployment or production writes unless separately authorised.
 Install requirements_test.txt for the fixture tests.

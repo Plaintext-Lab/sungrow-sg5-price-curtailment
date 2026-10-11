@@ -17,7 +17,7 @@ concurrency:
 jobs:
   shared-baseline:
     name: Shared repository baseline
-    uses: Artic0din/devkit/.github/workflows/baseline.yml@546c21be3806b28c2ca71507da160e187626a2a0  # Reviewed baseline consolidation and path confinement
+    uses: Artic0din/devkit/.github/workflows/baseline.yml@546c21be3806b28c2ca71507da160e187626a2a0  # DevKit PR #50 + #52 (reviewed merge commit; unreleased)
     with:
       required-files: >-
         README.md, LICENSE, CONTRIBUTING.md, CHANGELOG.md, .gitignore, requirements_test.txt,
