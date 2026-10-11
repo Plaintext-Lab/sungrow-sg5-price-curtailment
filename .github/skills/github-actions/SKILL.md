@@ -6,7 +6,7 @@ description: Maintain sungrow-sg5-price-curtailment's GitHub Actions callers and
 # Maintain repository automation
 
 Read [project automation](../../../docs/shared-automation.md), the current workflow and repository instructions before editing.
-Use the [pinned shared workflow contract](https://github.com/Artic0din/reusable-workflows/blob/ad2f70ec9dbf008652223e77424e9b329c835ad1/docs/workflow-contracts.md) for supported inputs and permissions.
+Use the [pinned DevKit baseline contract](https://github.com/Artic0din/devkit/blob/546c21be3806b28c2ca71507da160e187626a2a0/docs/reusable-workflows.md) for supported inputs and permissions.
 Home Assistant YAML configuration for guarded Sungrow solar curtailment.
 
 ## Implement

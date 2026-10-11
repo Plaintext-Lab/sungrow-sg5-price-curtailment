@@ -7,6 +7,8 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ### Changed
 
+- Moved the repository baseline to the reviewed DevKit workflow while preserving its required files and check name.
+
 - Updated shared repository checks and matching workflow documentation to the reviewed v1.1.0 release.
 - Adopted versioned shared repository checks and tailored documentation/agent skills while retaining project-specific validation.
 
